@@ -13,7 +13,6 @@
 <img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
 <img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
 <img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -23,8 +22,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantonmatheus03@gmail.com)
 
 ### 📈 My stats:
-<div align="left">
-  <img height=190em alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=dark&count_private=true" />
-  <img height=190em alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=dark" />
-</div>
+
+<img align="left" height=190em alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=dark&count_private=true" />
+<img align="left" height=190em alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=dark" />
 
