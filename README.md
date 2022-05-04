@@ -5,7 +5,7 @@
 - 👀 I also have interest in Python
 - ⚡ Fun fact: I'm very curious about new technologies and every vacation I try to learn something new or develop a project.
 
-### 🛠️ Tools and Languages I'm Learning
+### Tools and Languages I'm Learning
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="HTML" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+html-1324451320119191066.png" />
 <img alt="CSS" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+css-1324451270074695333.png" />
@@ -23,8 +23,8 @@
 
 ### 📈 My stats:
 
-<img align="left" height=180em alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true" />
-<img align="left" height=180em alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham" />
+<img align="left" height=160px alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true" />
+<img align="left" height=160px alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham" />
 
 
 
