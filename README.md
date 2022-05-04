@@ -1,4 +1,4 @@
-## Hi there, I'm Danton 👋
+## Hi there, I'm Danton 👋  <img align="right" alt="Danton's GitHub profile views" src="https://komarev.com/ghpvc/?username=danton03&color=259076&style=for-the-badge" />
 - 🎓 Electrical engineering student
 - 👨‍💻 Full Stack Web Development Student at Driven Education
 - 🌱 I’m currently learning ReactJS
@@ -23,6 +23,8 @@
 
 ### 📈 My stats:
 
-<img align="left" height=190em alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=dark&count_private=true" />
-<img align="left" height=190em alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=dark" />
+<img align="left" height=180em alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true" />
+<img align="left" height=180em alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham" />
+
+
 
