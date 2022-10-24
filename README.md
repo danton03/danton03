@@ -5,8 +5,8 @@
 - 👀 I also have interest in Python
 - ⚡ Fun fact: I'm very curious about new technologies and every vacation I try to learn something new or develop a project.
 
-### Languages and Tools I'm Learning
-<div align=center>
+### Languages and Tools
+<div align=left>
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -36,11 +36,11 @@
 </div>
 
 
-### 📬 How to reach me:
+### How to reach me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danton-matheus-costa)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantonmatheus03@gmail.com)
 
-### 📈 My stats:
+### My stats:
 <div>
 <img align="left" height=150px alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true" />
 <img align="left" height=150px alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham" />
