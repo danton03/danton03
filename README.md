@@ -1,7 +1,7 @@
 ## Hi there, I'm Danton 👋 
 - 🎓 Electrical engineering student
 - 👨‍💻 Full Stack Web Development Student at Driven Education
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning OAuth
 - 👀 I also have interest in Python
 - ⚡ Fun fact: I'm very curious about new technologies and every vacation I try to learn something new or develop a project.
 
