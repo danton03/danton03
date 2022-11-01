@@ -48,7 +48,7 @@
 
 ### Minhas métricas:
 <div>
-<img align="left" alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true&locale=pt-br" />
+<img align="left" height='165px' alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true&locale=pt-br" />
 <img align="left" alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham&locale=pt-br" />
 </div>
 
