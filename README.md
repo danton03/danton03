@@ -1,11 +1,11 @@
-## Hi there, I'm Danton 👋 
-- 🎓 Electrical engineering student
-- 👨‍💻 Full Stack Web Development Student at Driven Education
-- 🌱 I’m currently learning OAuth
-- 👀 I also have interest in Python
-- ⚡ Fun fact: I'm very curious about new technologies and every vacation I try to learn something new or develop a project.
+## Olá, eu sou o Danton 👋 
+- 🎓 Acadêmico de Engenharia Elétrica
+- 👨‍💻 Desenvolvedor Wed FullStack
+- 🌱 Atualmente estou aprendendo OAuth e Redis
+- 👀 Também tenho interesse em Python
+- ⚡ Curiosidade: sou uma pessoa muito curiosa e sempre que estou de férias tento aprender algo novo ou desenvolver um projeto.
 
-### Languages and Tools
+### Linguagens e Ferramentas
 <div align=left>
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,25 +25,31 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="CodeSandbox" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" />
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> 
 </div>
 
-### Personal organization
+### Organização Pessoal e Comunicação
 <div>
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <img alt="Google Calendar" src="https://img.shields.io/static/v1?label=&message=Google+Calendar&color=%234285F4&style=for-the-badge&logo=googlecalendar&logoColor=%23FFFFFF" />
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
 
-### How to reach me:
+### Contato:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danton-matheus-costa)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantonmatheus03@gmail.com)
 
-### My stats:
+### Minhas métricas:
 <div>
-<img align="left" height=150px alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true" />
-<img align="left" height=150px alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham" />
+<img align="left" alt="Danton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danton03&show_icons=true&theme=gotham&count_private=true&locale=pt-br" />
+<img align="left" alt="Danton's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danton03&layout=compact&theme=gotham&locale=pt-br" />
 </div>
 
 <br/>
@@ -53,9 +59,3 @@
 <br/>
 <br/>
 <br/>
-
-
-<p>
-<img alt="Danton's GitHub profile views" src="https://komarev.com/ghpvc/?username=danton03&color=259076&style=for-the-badge" />
-<p>
-
