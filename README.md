@@ -1,4 +1,4 @@
-## Olá, eu sou o Danton 👋 
+## Olá, meu nome é Danton 👋 
 - 🎓 Acadêmico de Engenharia Elétrica
 - 👨‍💻 Desenvolvedor Wed FullStack
 - 🌱 Atualmente estou aprendendo OAuth e Redis
