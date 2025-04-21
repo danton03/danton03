@@ -1,9 +1,9 @@
 ## Olá, meu nome é Danton 👋 
-- 🎓 Acadêmico de Engenharia Elétrica
 - 👨‍💻 Desenvolvedor Wed FullStack
-- 🌱 Atualmente estou aprendendo Redes Neurais
-- 👀 Também tenho interesse em Python
-- ⚡ Curiosidade: sou uma pessoa muito curiosa e sempre que estou de férias tento aprender algo novo ou desenvolver um projeto.
+- 🎓 Engenheiro Eletricista
+- 🌱 Atualmente estou aprendendo sobre IA para automatizar tarefas
+- 👀 Também tenho interesse em Python para Análise de Dados
+- ⚡ Curiosidade: sou uma pessoa muito curiosa e sempre que tenho um tempo livre tento aprender algo novo ou desenvolver um projeto.
 
 ### Linguagens e Ferramentas
 <div align=left>
